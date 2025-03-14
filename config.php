@@ -1,5 +1,5 @@
 <?php
-$host = "localhost"; // Replace with your remote MySQL host
+$host = "https://mnhs-project.github.io/Enrollment-MNHS/1.html"; // Replace with your remote MySQL host
 $username = "root"; // MySQL username
 $password = "gates@2"; // MySQL password
 $database = "enrollment_db"; // Name of your MySQL database
