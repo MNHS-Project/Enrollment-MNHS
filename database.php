@@ -1,5 +1,5 @@
 <?php
-$servername = "localhost";
+$servername = "https://mnhs-project.github.io/Enrollment-MNHS/1.html";
 $username = "root";
 $password = "gates@2";
 $dbname = "enrollment_db";
